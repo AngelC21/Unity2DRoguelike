@@ -10,3 +10,6 @@
 
 ![Alt text](https://github.com/AngelC21/Unity2DRoguelike/blob/master/Capture2.JPG "Play Mode")
 <br><br>
+
+![Alt text](https://github.com/AngelC21/Unity2DRoguelike/blob/master/Capture3.JPG "Play Mode")
+<br><br>
